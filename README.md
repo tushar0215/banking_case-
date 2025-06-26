@@ -1,1 +1,1 @@
-# banking_case_project
+# banking_dashboard_project
