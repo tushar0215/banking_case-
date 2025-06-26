@@ -4,24 +4,24 @@
 
 2. Description of dashboard
    1. Overview Page
-     -Provide a high-level summary of key bank metrics.
-     -Suggested Visuals & KPIs:
-     -Total customers
-     -Total deposits and total loans
-     -Net profit (if applicable)
-     -Number of branches/accounts
+     1.  Provide a high-level summary of key bank metrics.
+     2.  Suggested Visuals & KPIs:
+     3.  Total customers
+     4.  Total deposits and total loans
+     5.  Net profit (if applicable)
+     6.  Number of branches/accounts
 
    2. Deposit Analysis Page
-     -Purpose: Deep dive into deposit-related metrics.
-     -Total deposits by: Region, Customer type, Account type
-     -Average balance trends over time
-     -New deposit accounts per month
+      1. Purpose: Deep dive into deposit-related metrics.
+      2. Total deposits by: Region, Customer type, Account type
+      3. Average balance trends over time
+      4. New deposit accounts per month
 
    3. Loan Analysis Page
-     -Purpose: Analyze loan performance and risk.
-     -Visuals: Total loans issued ,Loan disbursement trends
-     -Loan type distribution (e.g., home, auto, personal,commercial)
-     -Delinquency
+      1. Purpose: Analyze loan performance and risk.
+      2. Visuals: Total loans issued ,Loan disbursement trends
+      3. Loan type distribution (e.g., home, auto, personal,commercial)
+      4. Delinquency
 
 3. Tech Stack
  The dashboard was built using the following tools and technologies:
