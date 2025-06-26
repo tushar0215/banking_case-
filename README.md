@@ -39,9 +39,9 @@
 By presenting these insights clearly and interactively, the dashboard supports better strategic decision-making, risk management, and customer targeting, ultimately helping the bank improve profitability and operational efficiency.
 
 5. Screenshots of Dashboard
-   https://github.com/tushar0215/banking_case-/blob/main/Overview%20Banking%20dashboard.png
-   https://github.com/tushar0215/banking_case-/blob/main/Deposit%20analysis.png
-   https://github.com/tushar0215/banking_case-/blob/main/Bank%20Loan%20Analysis.png
+   ![Dashboard preview](https://github.com/tushar0215/banking_case-/blob/main/Overview%20Banking%20dashboard.png)
+   ![Deposit Analysis](https://github.com/tushar0215/banking_case-/blob/main/Deposit%20analysis.png)
+   ![Loan Analysis](https://github.com/tushar0215/banking_case-/blob/main/Bank%20Loan%20Analysis.png)
    
    
 
