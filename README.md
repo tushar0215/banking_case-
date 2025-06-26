@@ -4,12 +4,12 @@
 
 2. Description of dashboard
    1. Overview Page
-     1.  Provide a high-level summary of key bank metrics.
-     2.  Suggested Visuals & KPIs:
-     3.  Total customers
-     4.  Total deposits and total loans
-     5.  Net profit (if applicable)
-     6.  Number of branches/accounts
+       1. Provide a high-level summary of key bank metrics.
+       2. Suggested Visuals & KPIs:
+       3. Total customers
+       4. Total deposits and total loans
+       5. Net profit (if applicable)
+       6. Number of branches/accounts
 
    2. Deposit Analysis Page
       1. Purpose: Deep dive into deposit-related metrics.
