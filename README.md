@@ -1,6 +1,9 @@
 # banking_dashboard_project 
 1. Banking Loan/Deposit Analysis
    A dynamic, interactive data visualization dashboard built to generate insights by comparing bank loans and bank deposits.
+   This  project involves a comprehensive analysis of a banking dataset to extract meaningful insights and support data-driven decision-making. Using Python and the pandas      library, I performed Exploratory Data Analysis (EDA) to understand the structure, distribution, and relationships within the data. The analysis includes:
+       1. Univariate analysis to examine individual variables such as deposit amounts, loan balances, customer age, and account types.
+       2. Bivariate analysis to explore interactions between features like loan approval vs. income, or deposit trends across customer segments.
    
 3. Description of dashboard
    1. Overview Page
